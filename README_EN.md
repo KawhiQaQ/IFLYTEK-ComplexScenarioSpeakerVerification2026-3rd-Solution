@@ -1,4 +1,4 @@
-<h1 align="center">IFLYTEK ComplexScenarioSpeakerVerification2026: Solution</h1>
+<h1 align="center">IFLYTEK ComplexScenarioSpeakerVerification2026: 3rd-Place Solution</h1>
 
 <p align="center"><strong>“Voiceprint in the Mist” Complex-Scenario Speaker Verification Challenge</strong></p>
 

@@ -1,4 +1,4 @@
-<h1 align="center">IFLYTEK ComplexScenarioSpeakerVerification2026: Solution</h1>
+<h1 align="center">IFLYTEK ComplexScenarioSpeakerVerification2026: 3rd-Place Solution</h1>
 
 <p align="center"><strong>“声纹迷雾”复杂场景说话人确认挑战赛</strong></p>
 
